@@ -13,7 +13,7 @@ public class TouchInput : MonoBehaviour
     private Vector2 imagePos;
 
     [SerializeField] private Transform parent;
-
+    
     void Update()
     {
         Draw();
